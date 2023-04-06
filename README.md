@@ -14,7 +14,7 @@
  - gorm資料庫處理
  
  <div align="center">
-   <img src="https://github.com/luckyuho/ithome30-golang/blob/main/img/homePic.png" width=800 height=500 title="高病發的爬蟲架構" />
+   <img src="https://github.com/luckyuho/ithome30-golang/blob/main/img/homePic.png" width=800 height=500 title="鐵人30天的圖案" />
  </div>
  
 
